@@ -1,0 +1,161 @@
+body {
+      font-family : italic ;
+      font-size : 20px ;
+} 
+
+h1 {
+     font-size : 20px 
+     font-family: Monaco, Courier, monospace;
+     color: #0e0;
+}
+
+main {
+     background-color:#dff0d8; 
+     width :2500px ;
+     height :3000px ;
+}
+
+.table {
+     border-collapse: collapse;
+     border: 2px solid red;  
+     width : ;
+     height : ; 
+     background-color: ;
+}
+
+caption {
+      padding : 5px ;
+}
+
+th   { 
+    padding: 5px;
+    padding-left: 5px; 
+    border: 3px solid black ;
+    background-color: darkcyan;
+    color : white ;
+   
+}
+
+td {
+    padding: 5px;
+    padding-left: 5px; 
+    border: 3px solid black ;
+    background-color:white ;
+}
+
+.tx-re {
+   text-align : center ;
+   background-color: darkcyan; 
+}
+
+.green {
+         background-color: darkcyan;
+         color : white ;
+         text-align : center ;
+         
+}
+
+.red  {
+    background-color :red;
+    width :560px ; 
+} 
+
+.red-2  {
+    background-color : #0e0; 
+}
+
+.ff {
+   border :10px solid black ;
+   width  :1110px ;
+   height :200px ;
+   padding:20px 20px;
+   position : absolute ;
+   left :28px ; 
+   top: 550px ; 
+   background-color:white ;
+}
+
+
+.fr {
+   border : 10px solid black ;
+   width : 250px ;
+   height : 600px ;
+   padding: 15px;
+   position : absolute ;
+   left :1240px ; 
+   top: 550px ;
+    background-color:white ;
+} 
+ 
+.rf {
+   border : 10px solid black ;
+   width : 600px ;
+   height : 1290px ;
+   padding: 15px;
+   position : absolute; 
+   top:820px;
+   background-color:white ;
+}
+.rok {
+   width : 510px;
+   height : 350px ;
+   padding: 10px 10px ;
+   vertical-align : bottom ;
+   text-align: center ;
+   background-color: black;
+   color : white ;
+}
+
+/*.sp {
+    border: 10px solid red ;
+    width : 510px;
+    height : 1450px ;
+    padding: 10px 10px ;
+    text-align: right ;
+    vertical-align:bottom;
+    vertical-align: bottom;
+    color : black ;
+    background-color:white ;
+}*/
+
+.cl {
+    border: 10px  solid white ; 
+    width : 500px;
+    height : 700px;
+    border-spacing: 10px;
+    background-color:white ;
+}
+
+.rok-2 {
+   width : 10px;
+   height : 20px;
+   text-align: center ;
+   vertical-align : middle ;
+   background-color: black;
+   color : white ;
+}
+
+article {
+   border : 10px solid green ;
+   width : 500px;
+   height : 1290px ;
+   padding: 15px;
+    position : absolute ;
+   left :680px ; 
+   top: 820px ;
+   background-color:white ;
+}
+
+.fot {
+   border:15px solid #0e0 ;
+   width : 2500px;
+   height :500px;
+   background-color:#0e0 ;
+}
+ 
+
+.swiper-container{
+      width:600px;
+      height:300px;
+      border:2px solid black;
+}      
