@@ -1,0 +1,126 @@
+
+
+header {
+  width:2000px;
+  height:600px;
+  margin-left:-10px;
+  margin-top:-10px;
+}
+ 
+body header .logi{
+  border: 10px solid black ;
+  width:519px;
+  height:100px;
+  position:absolute;
+  left:518px;
+  top:217px;
+  font-size:50px;
+  text-align:center;
+  padding-top:20px;
+}
+
+body header   .eda1-1 {
+  width:500px;
+  height:300px;
+  border:10px solid yellow ;
+}
+ 
+body header .edda2-2{
+  width:201px;
+  height:200px;
+  border:10px solid green;
+  position:absolute;
+  left:518px;
+  top:-3px;
+}
+
+body header .edda2-3{
+  width:450px;
+  height:362px;
+  border:10px solid red;
+  position:absolute;
+  left:1055px;
+  top:218px;
+}
+
+
+body header .edda3-3{
+  width:300px;
+  height:200px;
+  border:10px solid orange;
+  position:absolute;
+  left:740px;
+  top:-2px;
+}
+
+body header .edda3-4{
+  width:500px;
+  height:260px;
+  border:10px solid pink;
+  position:absolute;
+  left:px;
+  top:320px;
+}
+
+body header .edda3-5{
+  width:519px;
+  height:224px;
+  border:10px solid #75ea00;
+  position:absolute;
+  left:518px;
+  top:356px;
+}
+
+body header .edda3-6{
+  width:445px;
+  height:200px;
+  border:10px solid #cb4efc;
+  position:absolute;
+  left:1060px;
+  top:-2px;
+}
+
+
+main {
+ border-bottom: 2px solid red;
+ width:2000px;
+ height:2000px;
+ margin-left:-10px;
+ background-color:;
+}
+
+body  .vxot {
+   border: 10px solid red ;
+   width:300px;
+   height:170px;
+   margin-left:1000px;
+   margin-top:60px;
+}
+
+body .regin {
+   margin-top:-40px;
+   margin-left:19px; 
+    
+}
+
+body .passw {
+   margin-top:8px;
+   margin-left:19px; 
+    
+}
+
+input {
+   margin-top:10px;
+   margin-left:19px; 
+}
+
+input[type="submit"]{
+    margin-left:170px;
+}
+
+footer {
+ border: 2px solid red;
+ width:2000px;
+ height:600px;
+ margin-left:-10px;
+}
